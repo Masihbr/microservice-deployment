@@ -24,4 +24,9 @@ Software Engineering Lab homework: Deployment of a software with MicroService ar
 # 6
 برای این بخش یک environment variable در docker-compose داریم به نام GO_REPLICAS که معادل تعداد رپلیکا هایی است که میسازیم. این عدد را میتوانیم برابر ۵ ست کنیم تا ۵ کانتینر ایجاد شود و لود را میان انها تقسیم کنیم تا بهتر بتوانیم پاسخگوی کاربران باشیم. 
 
+![Screenshot from 2024-01-04 22-42-48](https://github.com/Masihbr/microservice-deployment/assets/59168138/a39f9918-d00b-439d-b2ef-06c5271c1291)
+
+حال از کامندی که بالاتر معرفی شد استفاده میکنیم  تا نشان دهیم که ست کردن این متغیر کارایی داشته است یا خیر.
+
+![Screenshot from 2024-01-04 22-42-24](https://github.com/Masihbr/microservice-deployment/assets/59168138/48e3824a-70cc-4d9c-ad5b-3938ffb9bbbc)
 
